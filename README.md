@@ -1,3 +1,9 @@
+БЛОК СХЕМА:
+
+<img width="602" height="882" alt="image" src="https://github.com/user-attachments/assets/5ace9ef9-6b2d-4268-bd0b-08bbc70927ad" />
+
+
+
 int task3() {
 	setlocale(LC_ALL, "RUS");
     int month, year;
