@@ -1,6 +1,7 @@
 БЛОК СХЕМА:
 
-<img width="602" height="882" alt="image" src="https://github.com/user-attachments/assets/5ace9ef9-6b2d-4268-bd0b-08bbc70927ad" />
+<img width="1192" height="1672" alt="image" src="https://github.com/user-attachments/assets/078168eb-fc49-42b6-8933-2e2baf2a3b82" />
+
 
 
 
