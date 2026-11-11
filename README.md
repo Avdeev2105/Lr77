@@ -7,7 +7,9 @@
 <img width="1192" height="1672" alt="image" src="https://github.com/user-attachments/assets/078168eb-fc49-42b6-8933-2e2baf2a3b82" />
 
 
-
+КОНТРОЛЬНЫЙ ПРИМЕР :
+Вводится 1 месяц январь, 2024 год.
+ОТВЕТ: В месяце 31 день
 
 int task3() {
 
